@@ -1,4 +1,5 @@
-![images](https://user-images.githubusercontent.com/59618586/105712303-41a82f00-5f22-11eb-8eca-543829f75864.png)
+![depositphotos_359335196-stock-illustration-flat-vector-work-home-workplace](https://user-images.githubusercontent.com/59618586/105712602-b2e7e200-5f22-11eb-86d4-fdbd2af329d6.jpg)
+
 # Remarkable-projects:
 
 ## Predicting Stock Close Prices :
