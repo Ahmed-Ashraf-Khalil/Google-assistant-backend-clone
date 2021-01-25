@@ -1,11 +1,20 @@
 # Remarkable-projects:
 
 ## Predicting Stock Close Prices :
-* StockPricePrediction: the code of the model.
+predicting stock Close price using LSTM model on approximately a Million examples.
+* StockPricePrediction: the code of the project.
 * NewDataEntire : dataset after preparing.
 * my_model_1 : weights of the model after the first epoch.
 * my_model_3 : weights of the model after the third epoch.
 
 <br/>
 
+## Running Distance Accuracy Challenge :
+Quantify the diﬀerences between two distance measurement sources with real life dataset that are used for a run tracking app work is to build a model that can minimize the gaps between distance values across the track to achieve a similar total track distance from both sources. The model will learn the distance calculation mechanism from the benchmark source to be able to correct distance values from the other source.
 
+* project: the code of the project.
+* train_sequences : train independent columns.
+* test_sequences : independent columns.
+* train_targets : train dependant columns.
+* train_tracks : the track data of the trainingset.
+* additional_targets,additional_sequences :additional data.
