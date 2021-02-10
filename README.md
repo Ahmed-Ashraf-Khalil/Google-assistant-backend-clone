@@ -19,4 +19,4 @@ Quantify the diﬀerences between two distance measurement sources with real lif
 * test_sequences.zip : independent columns.
 * train_targets.zip : train dependant columns.
 * train_tracks.zip : the track data of the trainingset.
-* additional_targets.zip , additional_sequences.zip :additional data.
+* additional_targets.zip , additional_sequences.zip : additional data.
