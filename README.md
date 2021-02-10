@@ -4,8 +4,8 @@
 
 ## Predicting Stock Close Prices :
 predicting stock Close price using LSTM model on approximately a Million examples.
-* StockPricePrediction: the code of the project.
-* NewDataEntire : dataset after preparing.
+* StockPricePrediction.ipyn: the code of the project.
+* NewDataEntire.csv : dataset after preparing.
 * my_model_1 : weights of the model after the first epoch.
 * my_model_3 : weights of the model after the third epoch.
 
