@@ -15,3 +15,8 @@ predicting stock Close price using LSTM model on approximately a Million example
 Quantify the diﬀerences between two distance measurement sources with real life dataset that are used for a run tracking app work is to build a model that can minimize the gaps between distance values across the track to achieve a similar total track distance from both sources. The model will learn the distance calculation mechanism from the benchmark source to be able to correct distance values from the other source.
 
 * project.ipyn : The Notebook.
+
+<br/>
+
+## Google assistant backend clone:
+.
