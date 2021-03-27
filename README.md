@@ -19,4 +19,8 @@ Quantify the diﬀerences between two distance measurement sources with real lif
 <br/>
 
 ## Google assistant backend clone:
-.
+google assistant backend clone using text to speach and speach to text to communicate to the user used to search on google and youtube by speach .
+
+upcoming update:
+`[setup events on google calendar , say random jokes]`
+
