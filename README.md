@@ -3,6 +3,11 @@
 # Google assistant backend clone:
 google assistant backend clone using text to speach and speach to text to communicate to the user used to search on google and youtube by speach .
 
+## Files : 
+* Google assistant backend clone.ipynb -> jupiter notebook of code (from text preprocessing to modeling)
+* intents.json -> json file of the whole data
+* model.tflearn files -> model information for loading the model without training 
+
 upcoming update:
 `[setup events on google calendar]`
 
