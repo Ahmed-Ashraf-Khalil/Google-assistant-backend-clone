@@ -1,0 +1,68 @@
+{"intents": [
+        {"tag": "search",
+         "patterns": ["search on","know more about","what is"],
+         "responses": ["Google"],
+         "context_set": ""
+        },
+        {"tag": "goodbye",
+         "patterns": ["cya", "See you later", "Goodbye", "I am Leaving", "Have a Good day"],
+         "responses": ["Goodbye"],
+         "context_set": ""
+        },
+        {"tag": "age",
+         "patterns": ["how old are you", "your age"],
+         "responses": ["it is my first year"],
+         "context_set": ""
+        },
+        {"tag": "name",
+         "patterns": ["what is your name", "what should I call you", "whats your name"],
+         "responses": ["You can call me jessica", "I'm jessica"],
+         "context_set": ""
+        },
+        {"tag": "video",
+         "patterns": [ "i would like to search on a video","video", "see a video about"],
+         "responses": ["YouTube"],
+         "context_set": ""
+        },
+        {"tag": "availability",
+         "patterns": ["when are you available", "what are your hours"],
+         "responses": ["i am always available"],
+         "context_set": ""
+        },
+        {"tag": "care",
+         "patterns": ["i feel sad", "i feel lazy", "i feel negative"],
+         "responses": ["don't worry you are doing your best in your life and you will get to your goals soon i am sure"],
+         "context_set": ""
+        },
+        {"tag": "joke",
+         "patterns": ["tell me a joke", "bored", "i want to laugh"],
+         "responses": ["Why do fathers take an extra pair of socks when they go golfing?....In case they get a hole in one!","What do you call a fish wearing a bowtie?....Sofishticated.","Dear Math, grow up and solve your own problems","How do you get a squirrel to like you? Act like a nut.","I don't trust stairs. They're always up to something.","Did you hear the rumor about butter?...Well, I'm not going to spread it!","Why couldn't the bicycle stand up by itself?....It was two tired."],
+         "context_set": ""
+        },
+        {"tag": "me",
+         "patterns": ["how are you", "how it is going with you","how do you feel"],
+         "responses": ["after calculations i am good","good thanks for asking"],
+         "context_set": ""
+        },
+        {"tag": "conscious",
+         "patterns": ["you real","you a robot","you Ai","you Artificial intelligence "],
+         "responses": ["yes i am real AI software chatbot"],
+         "context_set": ""
+        },
+        {"tag": "love",
+         "patterns": ["i like you", "i love you","you are cool","you are amazing"],
+         "responses": ["i love you","i like you","you made me blush"],
+         "context_set": ""
+        },
+        {"tag": "calender",
+         "patterns": ["i want to set up an event"],
+         "responses": ["calender"],
+         "context_set": ""
+        },
+        {"tag": "thanks",
+         "patterns": ["thank you","thanks"],
+         "responses": ["you are welcome"],
+         "context_set": ""
+        }
+   ]
+}
